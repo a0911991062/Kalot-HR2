@@ -28,7 +28,7 @@ The application will be available at `http://localhost:3000`.
 ### Build
 To create a production build:
 ```bash
-npm run build
+npm run  build
 ```
 
 ## 📦 Deployment
